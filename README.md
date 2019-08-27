@@ -1,6 +1,6 @@
 # docker-go-starter
 
-Smalles possible docker & go version.
+Smalles possible docker & go version using docker multistage and scratch images to have a super small final image.
 
 ## Usage
 
