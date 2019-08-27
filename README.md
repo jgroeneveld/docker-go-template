@@ -2,8 +2,11 @@
 
 Smalles possible docker & go version.
 
-```
-docker build -t docker-go-starter .
-docker run -p 9000:8080 docker-go-starter
-http :9000/
-```
+## Usage
+
+- Adjust the module in `go.mod`
+- Build with docker
+
+      docker build -t docker-go-starter .
+      docker run -p 9000:8080 docker-go-starter
+      http :9000/
