@@ -1,4 +1,4 @@
-module github.com/jgroeneveld/minimal-go
+module github.com/jgroeneveld/docker-go-starter
 
 go 1.12
 
