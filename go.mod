@@ -1,4 +1,4 @@
-module github.com/jgroeneveld/docker-go-starter
+module github.com/jgroeneveld/docker-go-template
 
 go 1.12
 
